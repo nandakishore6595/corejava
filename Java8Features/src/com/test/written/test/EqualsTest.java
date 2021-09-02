@@ -1,4 +1,4 @@
-package com.hcl.written.test;
+package com.test.written.test;
 
 public class EqualsTest {
 
